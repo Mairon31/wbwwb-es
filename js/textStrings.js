@@ -416,5 +416,5 @@ var textStrings_FA = {
 	"misatrributed": "(!با مقداری تغییر)",
 };
 
-var textStrings = textStrings_FA
+var textStrings = textStrings_ES;
 //var textStrings = textStrings_KR;
