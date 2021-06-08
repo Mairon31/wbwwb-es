@@ -105,6 +105,110 @@ var textStrings_EN = {
 };
 
 // Umlaut codes: Ä = \xC4, Ö = \xD6, Ü = \xDC, ä = \xE4, ö = \xF6, ü = \xFC, ß = \x
+var textStrings_ES = {
+	// Act 1
+	"niceHat": "OOH BONITO SOMBRERO",
+	"outtaHere": "Sí, lárgate de aquí",
+	"getARoom": "TONTOS, CONSIGAN UNA HABITACIÓN",
+	"notCoolAnymore": "no importa, los sombreros ya no son geniales",
+	"tvOnTv": "Una TV... EN TV!",
+	"cricky": "LIL 'CRICKY <3",
+	"tooManyCrickets": "está bien, son demasiados grillos",
+	"normalPeep": "solo un pío normal",
+	"normalPeeps": "solo algunos píos normales",
+	"wowNothing": "OH WOWW, NO ES NADA",
+
+	// Act 2
+	"crazySquareAttacks": "ATAQUES DE CUADRADOS LOCOS",
+	"justMissed": "oooooh me lo perdí",
+	"somethingInteresting": "(tienes que pillarlos haciendo *algo* interesante...)",
+	"whoIsScreaming": "(tienes que escoger a quién les está gritando)",
+	"circleFearsSquares": "CÍRCULO TEMEN DE LOS CUADRADOS",
+	"whoScaresThem": "(también tienes que atrapar *por quién* están asustados)",
+	"areTheyScared": "(tienes que atrapar a los *asustados* por un cuadrado)", // not used
+	"squaresSnubCircles": "CUADRADOS OFENDEN A LOS CÍRCULOS",
+	"areTheySnubbed": "(tienes que atraparlos * mientras * ofenden a un círculo)", // not used
+	"everyoneHates": "¡¡TODOS ODIAN A TODOS!!1!",
+	"almostEveryoneHates": "CASI TODOS ODIAN A TODOS...",
+	"squaresHateCircles": "CUADRADOS ODIAN LOS CÍRCULOS",
+	"circlesHateSquares": "CÍRCULOS ODIAN LOS CUADRADOS",
+	"areTheyYelling": "(tienes que atrapar al que esté *gritando* a los demás)", // not used
+	"nerdsNow": "Qué están haciendo estos nerds ahora?",
+	"schockedPeep": "Por qué este pío está sorprendido?",
+	"whatever": "lo que sea",
+
+	// Act 3
+	"ellipsis": ". . .",
+	"coolNoMore": "los sombreros ya no son geniales, ¿no lo has oído?",
+	"beScared": "ESTARÁS ASUSTADO. ESTARÁS ENOJADO.",
+
+	// MANIFESTO
+	"manifesto": [
+		//"como si los espectadores quisieran BUENAS noticias"       ,
+		"Quién sintoniza para ver *a la gente llevarse bien?*",
+		"la paz es aburrida. la violencia se vuelve viral.",
+		//"la paz es aburrida. el conflicto recibe clics." ,
+		"y cada historia necesita un conflicto, así que...",
+		//"...DALE AL PÚBLICO LO QUE QUIERE."   ,
+		"DALE AL PÚBLICO LO QUE QUIERE."
+	],
+
+	// -- Strings currently in graphics resources --
+
+	// (bg_preload.png) Preload screen
+	"playingTime": "tiempo de juego: 5 minutos",
+	"warning": "advertencia: el siguiente programa\ncontiene escenas de esnobismo,\nrudeza y asesinato en masa.\nse recomienda la discreción del espectador.",
+
+	// (cam-instructions.png) Camera Instructions
+	"pointAndClick": "PUNTO Y CLIC",
+
+	// (chyron3.png)
+	"chyronNothing": "OH WOW, NO ES *NADA*",
+
+	// (credits0001.png)
+	"createdBy": "creado por",
+	"NickyCase": "Nicky Case",
+
+	// (credits0002.png)
+	"manyThanks": "muchas gracias a mis playtesters:",
+
+	// (credits000[3,4,5,6].png)
+	"patreonSupporters": "y a mis seguidores de patreon:",
+
+	// (credits0007.png)
+	"lastButNotLeast": "y por último pero no menos importante,",
+
+	// (credits0008.png)
+	"thankYouForPlaying": "¡gracias A TI por jugar!",
+
+	// (preload_play.png)
+	"playButton": "JUGAR",
+
+	// (end_button.png) Post Credits
+	"otherWorkButton": "mira mi otro trabajos",
+	"buyCoffeeButton": "cómprame un café",
+	"replayButton": "reproducir este lío",
+
+	// (logo.png) Post Credits
+	"logoWBWWB": "COMPARTE EL DOLOR:",
+
+	// (end_prototype.png)
+	"endOfPrototype": "FIN DEL PROTOTIPO",
+	"toBeContinued": "(¡continuará!)",
+
+	// (quote0002.png)
+	"WBWWB": "Nos convertimos en lo que contemplamos.",
+	"WSOTATOTSU": "Damos forma a nuestras herramientas y luego nuestras herramientas nos dan forma a nosotros.",
+
+	// (quote0003.png)
+	"MarshallMcLuhan": "Marshall McLuhan",
+
+	// (quote0004.png)
+	"misatrributed": "(misattributed)",
+};
+
+// Translation to Spanish. Traducción al ESPAÑOL :) 
+// Translated by Mairon31 (github.com/Mairon31)
 
 var textStrings_DE = {
 	// Act 1
