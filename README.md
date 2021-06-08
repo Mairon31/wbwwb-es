@@ -2,7 +2,7 @@
 
 *un juego sobre ciclos de noticias, ciclos viciosos, ciclos infinitos*
 
-**[JUGAR Persa)](https://alexclay.itch.io/)** -- **[JUGAR (INGLÉS)](https://ncase.itch.io/wbwwb)**
+**[(JUGAR Persa)](https://alexclay.itch.io/)** -- **[JUGAR (INGLÉS)](https://ncase.itch.io/wbwwb)**
 
 ---
 
